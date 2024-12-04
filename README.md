@@ -8,8 +8,7 @@ I'm **Cader Ali Ashfaq Ahamad**, a driven **Full Stack Developer** with a knack 
 - 🤔 I’m seeking advice on **scaling web apps**, **microservices architecture**, and mastering **cloud deployments**.
 - 💬 Let’s chat about **React**, **Node.js**, **PHP**, or **MongoDB**—I’m always up for discussing the latest tech trends!
 - 📫 How to reach me: [ashfaqcader12@gmail.com](mailto:ashfaqcader12@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ashfaq-ahamad-703232224)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I placed **2nd** in a hackathon with my team—celebrating as if we were first because great teamwork is a win in itself!
+
 
 ---
 
