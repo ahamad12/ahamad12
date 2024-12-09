@@ -29,6 +29,8 @@ I'm **Cader Ali Ashfaq Ahamad**, a dedicated **Software Engineer** with a strong
 - **[Loan Recovery System](https://github.com/ahamad12/Loan-recovery-and-checklist-management-system-forPeople-s-Bank)**: Cross-platform app to streamline loan recovery processes.
 - **[Hackintra v6.0 Project](https://github.com/ahamad12/has_system_doctor)**: Real-time hospital queue management system, awarded **2nd Place** in Hackintra v6.0 (Team SriCode).
 - **[Express Book Reviews](https://github.com/ahamad12/expressBookReviews)**: A book review web application built with Node.js and Express.js.
+- **[Meta Capstone Project: Little Lemon](https://github.com/ahamad12/little-lemon)**: A responsive restaurant landing page featuring booking functionality, built as part of the Meta Front-End Developer certification.
+
 
 ---
 
