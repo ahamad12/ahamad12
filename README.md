@@ -1,39 +1,50 @@
 ## Hi there 👋
 
-I'm **Cader Ali Ashfaq Ahamad**, a driven **Full Stack Developer** with a knack for creating sleek, scalable, and secure web applications. With experience across **frontend** and **backend** technologies, I’m passionate about solving real-world problems and bringing ideas to life through clean, efficient code.
+I'm **Cader Ali Ashfaq Ahamad**, a dedicated **Software Engineer** with a strong focus on **backend development**. I thrive on designing scalable and efficient systems, leveraging my expertise in server-side logic, database management, and API integration. I also have beginner-level experience in **Flutter** for mobile development and am actively expanding my knowledge in **AI**, **Machine Learning**, and **Data Science**.
 
-- 🔭 I’m currently working on enhancing **cross-platform applications** and refining **inventory management systems**.
-- 🌱 I’m diving deeper into **Django** and pushing my knowledge of **Flutter** to the next level.
-- 👯 I’m open to collaborating on innovative **open-source projects** and tackling challenging **web and mobile app development** problems.
-- 🤔 I’m seeking advice on **scaling web apps**, **microservices architecture**, and mastering **cloud deployments**.
-- 💬 Let’s chat about **React**, **Node.js**, **PHP**, or **MongoDB**—I’m always up for discussing the latest tech trends!
-- 📫 How to reach me: [ashfaqcader12@gmail.com](mailto:ashfaqcader12@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ashfaq-ahamad-703232224)
+---
 
+### 🚀 About Me
+- 🔭 Currently developing a **POS system** using the MERN stack.
+- 🌱 Pursuing certifications in **IBM Data Science** and **Google Advanced Data Analytics**.
+- 🌐 Exploring the intersection of **AI**, **Machine Learning**, and **Data Science**.
+- 👯 Open to collaborating on **backend-intensive projects**, **data-driven solutions**, and **open-source contributions**.
+- 💬 Tech interests: **Node.js**, **Django**, **MongoDB**, **React**, **Flutter**, **Machine Learning**, and **Data Science**.
+- 📫 Reach me at: [ashfaqcader12@gmail.com](mailto:ashfaqcader12@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ashfaq-ahamad-703232224)
 
 ---
 
 ### 🔧 Tech Stack
-**Frontend:** HTML, CSS, JavaScript, React.js, Bootstrap  
-**Backend:** PHP, Node.js, MySQL, MongoDB  
-**Languages:** Java, C++, Dart, PHP, JavaScript  
-**Frameworks:** React, Django, Flutter  
-**Dev Tools:** Git, Linux, cPanel, Firebase
+- **Backend:** Node.js, PHP, Django, MySQL, MongoDB  
+- **Frontend:** HTML, CSS, JavaScript, React.js, Bootstrap  
+- **Languages:** Java, C++, Dart, PHP  
+- **Tools & DevOps:** Git, RESTful APIs, Linux, Firebase  
+- **Mobile:** Flutter (beginner-level experience)  
+- **Data Science:** Python, Pandas, NumPy, Jupyter Notebooks (in progress)  
 
 ---
 
-### 🏆 Featured Projects
-
+### 🏆 Projects
 - **[Inventory Web App](https://github.com/ahamad12/CSC3132InventoryApp)**: A CRUD-based inventory management system built with PHP and MySQL.
-- **[Loan Recovery System](https://github.com/ahamad12/Loan-recovery-and-checklist-management-system-forPeople-s-Bank)**: Cross-platform app for streamlining loan recovery.
-- **[Hospital Queue & Bed Availability App](https://github.com/ahamad12/has_system_doctor)**: Real-time hospital queue management system built for a hackathon.
+- **[Loan Recovery System](https://github.com/ahamad12/Loan-recovery-and-checklist-management-system-forPeople-s-Bank)**: Cross-platform app to streamline loan recovery processes.
+- **[Hackintra v6.0 Project](https://github.com/ahamad12/has_system_doctor)**: Real-time hospital queue management system, awarded **2nd Place** in Hackintra v6.0 (Team SriCode).
+- **[Express Book Reviews](https://github.com/ahamad12/expressBookReviews)**: A book review web application built with Node.js and Express.js.
 
 ---
 
-### 📈 GitHub Stats
-![Ashfaq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahamad12&show_icons=true&theme=radical)
+### 🎖️ Certifications & Achievements
+- **DevOps, Cloud, and Agile Foundations**:(IBM) 
+- **Meta Front-End Developer** Certification (Meta)  
+- **Django App Development** (IBM)  
+- **Back-End Apps with Node.js** (IBM)  
+- 🏆 **2nd Place** in Hackintra v6.0 - Team SriCode  
 
+---
+
+### 📊 GitHub Stats
+![Ashfaq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahamad12&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahamad12&layout=compact&theme=radical)
 
 ---
 
-I love connecting with fellow developers and tech enthusiasts. Check out my repos below and let’s create something impactful together!
+I’m passionate about advancing in **AI**, **ML**, and **Data Science**, while also continuing to contribute to impactful software solutions. Let’s collaborate and build something great together!
