@@ -17,7 +17,7 @@ I'm **Cader Ali Ashfaq Ahamad**, a dedicated **Software Engineer** with a strong
 ### 🔧 Tech Stack
 - **Backend:** Node.js, PHP, Django, MySQL, MongoDB  
 - **Frontend:** HTML, CSS, JavaScript, React.js, Bootstrap  
-- **Languages:** Java, C++, Dart, PHP  
+- **Languages:** Java, Python 
 - **Tools & DevOps:** Git, RESTful APIs, Linux, Firebase  
 - **Mobile:** Flutter (beginner-level experience)  
 - **Data Science:** Python, Pandas, NumPy, Jupyter Notebooks (in progress)  
