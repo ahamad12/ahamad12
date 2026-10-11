@@ -45,12 +45,7 @@
 
 ---
 
-## 🎓 Certifications
-- 🎖️ **Meta Front-End Developer** (Meta)
-- 🎖️ **Meta Back-End Developer** (Meta)
-- 🎖️ **Developing Back-End Apps with Node.js and Express** (IBM)
-- 🎖️ **Django App Development** (IBM)
-- 🎖️ **DevOps, Cloud, and Agile Foundations** (IBM)
+
 
 ---
 
