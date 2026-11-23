@@ -1,7 +1,11 @@
+<h1 align="center">Hi, I'm Ashfaq Ahamad 👋</h1>
+<p align="center">
+  <img alt="Typing intro" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&center=true&vCenter=true&width=520&lines=Full-stack+%26+Mobile+Developer;React+%2F+Next.js+%2B+Node.js+%2F+NestJS;Building+things+that+ship+%F0%9F%9A%80">
+</p>
+
 ### 💫 About Me
 💻 Full-stack & Mobile Developer  
 ⚛️ React / Next.js + Node.js / NestJS, with Python/FastAPI on the side  
-🧠 Currently working on a personal project  
 🏢 Software Engineer Intern @ Detech  
 🎓 BSc Applied Mathematics and Computing, University of Jaffna
 
@@ -40,16 +44,43 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
+---
+
+## 📌 Featured Projects
+<p align="center">
+  <a href="https://github.com/ahamad12/waymark-api"><img alt="waymark-api" src="https://github-readme-stats.vercel.app/api/pin/?username=ahamad12&repo=waymark-api&hide_border=true&theme=tokyonight" width="49%"></a>
+  <a href="https://github.com/ahamad12/hok-api"><img alt="hok-api" src="https://github-readme-stats.vercel.app/api/pin/?username=ahamad12&repo=hok-api&hide_border=true&theme=tokyonight" width="49%"></a>
+  <a href="https://github.com/ahamad12/e-comm"><img alt="e-comm" src="https://github-readme-stats.vercel.app/api/pin/?username=ahamad12&repo=e-comm&hide_border=true&theme=tokyonight" width="49%"></a>
+  <a href="https://github.com/ahamad12/reddit-clone"><img alt="reddit-clone" src="https://github-readme-stats.vercel.app/api/pin/?username=ahamad12&repo=reddit-clone&hide_border=true&theme=tokyonight" width="49%"></a>
+  <a href="https://github.com/ahamad12/applysync"><img alt="applysync" src="https://github-readme-stats.vercel.app/api/pin/?username=ahamad12&repo=applysync&hide_border=true&theme=tokyonight" width="49%"></a>
+  <a href="https://github.com/ahamad12/Trackon"><img alt="Trackon" src="https://github-readme-stats.vercel.app/api/pin/?username=ahamad12&repo=Trackon&hide_border=true&theme=tokyonight" width="49%"></a>
+</p>
+
+---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="./profile-summary-card-output/radical/0-profile-details.svg" width="49%" />
-  <img src="./profile-summary-card-output/radical/3-stats.svg" width="49%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ahamad12&show_icons=true&hide_border=true&theme=tokyonight">
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ahamad12&show_icons=true&hide_border=true&theme=default" height="170">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ahamad12&layout=compact&hide_border=true&theme=tokyonight">
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahamad12&layout=compact&hide_border=true&theme=default" height="170">
+</picture>
 </p>
 <p align="center">
-  <img src="./profile-summary-card-output/radical/2-most-commit-language.svg" width="49%" />
-  <img src="./profile-summary-card-output/radical/1-repos-per-language.svg" width="49%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ahamad12&hide_border=true&theme=tokyonight">
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=ahamad12&hide_border=true&theme=default">
+</picture>
 </p>
+
+---
+
+## ⚡ Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
